@@ -1,0 +1,62 @@
+@import url('https://fonts.googleapis.com/css?family=Indie+Flower|Shadows+Into+Light');
+
+h1{
+	text-align: center;
+	font-family: 'Indie Flower', cursive;
+	padding: 10px;
+	font-size: 72px;
+}
+body{
+	background-color: rgb(41,38,70);
+}
+.white-background{
+	background-color: white;
+}
+*{
+	color: #306F98
+}
+
+.face img{
+	width: 100%;
+}
+p{
+	font-family: 'Shadows Into Light', cursive;
+	font-size: 32px;
+	
+}
+.inner-wrap {
+	margin-top: 50px;
+}
+.text-wrap {
+	padding: 20px;
+}
+.story1{
+	margin-top: 5%;
+}
+.drawing1 img{
+	margin-top: 10%;
+	width: 50%;
+}
+.drawing2 img{
+	margin-top: 10%;
+	margin-left: 53%;
+	width: 50%;
+}
+.story2{
+	margin-top: 5%;
+}
+.slime img{
+	margin-top: 12%;
+	width: 50%;
+}
+.OwO img{
+	margin-left: 50%;
+	margin-top: 5%;
+	width: 50%;
+}
+.imgsum h1{
+	margin-top: 2%;
+}
+.imgsum p{
+	margin-top: 2%;
+}
